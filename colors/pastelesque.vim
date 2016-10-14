@@ -114,7 +114,6 @@ hi cssBraces guifg=#5fb3b3 ctermfg=73 guibg=NONE gui=NONE
 
 syntax enable
 set t_Co=256
-"colorscheme oceanic-next
 
 " red
 " 4 blue
