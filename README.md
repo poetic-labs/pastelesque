@@ -1,3 +1,7 @@
+# Pastelesque
+
+![](https://raw.githubusercontent.com/poetic-labs/pastelesque/master/pastelesque.png)
+
 # Setup
 
 First, get the corresponding iterm colorscheme:
