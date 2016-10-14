@@ -26,8 +26,6 @@ hi Search guifg=NONE guibg=NONE gui=underline
 hi Directory guifg=#99c794 ctermfg=114 guibg=NONE gui=NONE
 hi Folded guifg=#65737e ctermfg=243 guibg=#1b2b34 ctermbg=235 gui=NONE
 
-
-
 hi Normal guifg=#cdd3de guibg=#1b2b34 ctermbg=235 ctermfg=188
 hi Boolean guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi Character guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
@@ -108,9 +106,7 @@ hi cssValueLength guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi cssCommonAttr guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi cssBraces guifg=#5fb3b3 ctermfg=73 guibg=NONE gui=NONE
 
-
-
-
+" Begin Pastelesque customizations
 
 syntax enable
 set t_Co=256
