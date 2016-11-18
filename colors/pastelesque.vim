@@ -92,9 +92,7 @@ hi htmlSpecialChar guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
 hi javaScriptFunction guifg=#c594c5 ctermfg=176 guibg=NONE gui=NONE
 hi javaScriptRailsFunction guifg=#6699cc ctermfg=68 guibg=NONE gui=NONE
 hi javaScriptBraces guifg=NONE guibg=NONE gui=NONE
-
-hi yamlKey guifg=#eb606b ctermfg=167 guibg=NONE gui=NONE
-hi yamlAnchor guifg=#cdd3de ctermfg=188 guibg=NONE gui=NONE
+hi yamlKey guifg=#eb606b ctermfg=167 guibg=NONE gui=NONE hi yamlAnchor guifg=#cdd3de ctermfg=188 guibg=NONE gui=NONE
 hi yamlAlias guifg=#cdd3de ctermfg=188 guibg=NONE gui=NONE
 hi yamlDocumentHeader guifg=#99c794 ctermfg=114 guibg=NONE gui=NONE
 hi cssURL guifg=#f99157 ctermfg=209 guibg=NONE gui=NONE
@@ -127,6 +125,7 @@ hi jsBooleanTrue ctermfg=208
 hi jsBooleanFalse ctermfg=208
 hi jsModules ctermfg=73
 hi jsModuleWords ctermfg=73
+hi jsModuleKeywords ctermfg=73
 hi jsOf ctermfg=73
 hi jsArgsObj ctermfg=red
 hi jsCommentTodo ctermfg=220
@@ -247,3 +246,4 @@ hi rubyRailsRakeMethod ctermfg=176
 hi rubyBlockParameterList ctermfg=73
 hi rubyConstant ctermfg=red
 hi rubysymbol ctermfg=73
+hi rubyInstanceVariable ctermfg=white
