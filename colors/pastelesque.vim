@@ -247,3 +247,10 @@ hi rubyBlockParameterList ctermfg=73
 hi rubyConstant ctermfg=red
 hi rubysymbol ctermfg=73
 hi rubyInstanceVariable ctermfg=white
+
+" elixir
+
+hi elixiratom ctermfg=73
+hi elixirblock ctermfg=73
+hi elixiralias ctermfg=red
+hi elixirstringdelimiter ctermfg=green
