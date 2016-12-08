@@ -212,6 +212,16 @@ hi javascriptqmanipulation ctermfg=green
 hi jsonKeyword ctermfg=176
 hi jsonQuote ctermfg=73
 
+hi jsxtag ctermfg=73
+hi jsxtagname ctermfg=red
+hi jsxclosetag ctermfg=73
+hi jsxattrib ctermfg=176
+hi jsxequal ctermfg=73
+
+hi jsmodulekeywords ctermfg=73
+hi jsmoduleoperators ctermfg=73
+hi jsclassdefinition ctermfg=red
+
 hi htmlTagN ctermfg=red
 hi htmlTagName ctermfg=red
 hi htmlArg ctermfg=176
