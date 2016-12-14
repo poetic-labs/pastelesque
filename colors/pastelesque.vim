@@ -112,7 +112,7 @@ set t_Co=256
 
 " red
 " 4 blue
-" white
+" 188 white
 " green
 " 73 blue green
 " 176 light purple
@@ -163,7 +163,7 @@ hi jsUndefined ctermfg=208
 hi jsNan ctermfg=220
 hi jsPrototype ctermfg=red
 hi jsThis ctermfg=red
-hi jsStatic ctermfg=white
+hi jsStatic ctermfg=188
 hi jsSuper ctermfg=red
 hi jsStatement ctermfg=176
 hi jsConditional ctermfg=176
@@ -177,13 +177,13 @@ hi jsGlobalObjects ctermfg=220
 hi jsExceptions ctermfg=220
 hi jsBuiltins ctermfg=68
 hi jsFutureKeys ctermfg=176
-hi jsHtmlEvents ctermfg=white
+hi jsHtmlEvents ctermfg=188
 " jsExpression contains=jsComment,jsLineComment,jsBlockComment,jsTaggedTemplate,jsTemplateString,jsStringD,jsStringS,jsRegexpString,jsNumber,jsFloat,jsThis,jsStatic,jsSuper,jsOperator,jsBooleanTrue,jsBooleanFalse,jsNull,jsFunction,jsArrowFunction,jsGlobalObjects,jsExceptions,jsFutureKeys,jsDomErrNo,jsDomNodeConsts,jsHtmlEvents,jsDotNotation,jsBracket,jsParen,jsBlock,jsFuncCall,jsUndefined,jsNan,jsKeyword,jsStorageClass,jsPrototype,jsBuiltins,jsNoise,jsCommonJS,jsAssignmentExpr,jsImportContainer,jsExportContainer,jsClass,jsArgsObj,jsDecorator,jsAsyncKeyword
 " jsAll        contains=@jsExpression,jsLabel,jsConditional,jsRepeat,jsReturn,jsStatement,jsTernaryIf,jsException
-hi jsBracket ctermfg=white
+hi jsBracket ctermfg=188
 " syntax region  jsParen      matchgroup=jsParens       start="("  end=")"  contains=@jsAll,jsOf,jsParensErrA,jsParensErrC,jsParen,jsBracket,jsBlock,@htmlPreproc fold
-hi jsBlock ctermfg=white
-hi jsFuncBlock ctermfg=white
+hi jsBlock ctermfg=188
+hi jsFuncBlock ctermfg=188
 hi jsTernaryIf ctermfg=73
 " syntax match   jsGenerator      contained '\*' nextgroup=jsFuncName skipwhite
 hi jsFuncName ctermfg=4
@@ -196,17 +196,17 @@ hi jsHtmlEvents ctermfg=220
 
 "hi jsParen ctermfg=red
 "hi javascriptBCollection ctermfg=blue
-hi jsBraces ctermfg=white
-hi jsfuncbraces ctermfg=white
+hi jsBraces ctermfg=188
+hi jsfuncbraces ctermfg=188
 "hi jsBlock ctermfg=red
 "hi jsFuncCall ctermfg=blue
-"hi jsParens ctermfg=white
+"hi jsParens ctermfg=188
 "hi javascriptBRouter ctermfg=blue
 "hi jsHtmlEvents ctermfg=176
 "hi jsfuncargs ctermfg=208
 "hi jsfuncparens ctermfg=43
 
-hi javascriptreact ctermfg=white
+hi javascriptreact ctermfg=188
 hi javascriptqmanipulation ctermfg=green
 
 hi jsonKeyword ctermfg=176
@@ -249,7 +249,7 @@ hi vertsplit cterm=NONE
 
 hi spacebarshandlebars ctermfg=4
 hi spacebarsconditionals ctermfg=176
-hi spacebarsinside ctermfg=white
+hi spacebarsinside ctermfg=188
 hi spacebarspartial ctermfg=176
 
 hi rubyInclude ctermfg=176
@@ -257,7 +257,7 @@ hi rubyRailsRakeMethod ctermfg=176
 hi rubyBlockParameterList ctermfg=73
 hi rubyConstant ctermfg=red
 hi rubysymbol ctermfg=73
-hi rubyInstanceVariable ctermfg=white
+hi rubyInstanceVariable ctermfg=188
 
 " elixir
 
