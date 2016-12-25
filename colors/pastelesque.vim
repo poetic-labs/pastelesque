@@ -218,6 +218,8 @@ hi jsxclosetag ctermfg=73
 hi jsxattrib ctermfg=176
 hi jsxequal ctermfg=73
 
+hi jsimport ctermfg=73
+hi jsfrom ctermfg=73
 hi jsmodulekeywords ctermfg=73
 hi jsmoduleoperators ctermfg=73
 hi jsclassdefinition ctermfg=red
