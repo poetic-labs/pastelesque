@@ -267,3 +267,5 @@ hi elixiratom ctermfg=73
 hi elixirblock ctermfg=73
 hi elixiralias ctermfg=red
 hi elixirstringdelimiter ctermfg=green
+hi elixirid ctermfg=188
+hi elixirmoduledeclaration ctermfg=red
