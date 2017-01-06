@@ -149,6 +149,7 @@ hi jsRegexpString ctermfg=73
 hi jsNumber ctermfg=208
 hi jsFloat ctermfg=208
 hi jsObjectKey ctermfg=green
+hi jsObject ctermfg=green
 " jsFunctionKey
 " jsDecorator
 " jsDecoratorFunction
