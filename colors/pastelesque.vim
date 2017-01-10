@@ -148,8 +148,6 @@ hi jsRegexpGroup ctermfg=73
 hi jsRegexpString ctermfg=73
 hi jsNumber ctermfg=208
 hi jsFloat ctermfg=208
-hi jsObjectKey ctermfg=green
-hi jsObject ctermfg=green
 " jsFunctionKey
 " jsDecorator
 " jsDecoratorFunction
@@ -222,6 +220,7 @@ hi jsxequal ctermfg=73
 hi jsmodulekeywords ctermfg=73
 hi jsmoduleoperators ctermfg=73
 hi jsclassdefinition ctermfg=red
+hi jsObject ctermfg=green
 
 hi htmlTagN ctermfg=red
 hi htmlTagName ctermfg=red
