@@ -217,6 +217,8 @@ hi jsxclosetag ctermfg=73
 hi jsxattrib ctermfg=176
 hi jsxequal ctermfg=73
 
+hi jsimport ctermfg=73
+hi jsfrom ctermfg=73
 hi jsmodulekeywords ctermfg=73
 hi jsmoduleoperators ctermfg=73
 hi jsclassdefinition ctermfg=red
@@ -265,3 +267,5 @@ hi elixiratom ctermfg=73
 hi elixirblock ctermfg=73
 hi elixiralias ctermfg=red
 hi elixirstringdelimiter ctermfg=green
+hi elixirid ctermfg=188
+hi elixirmoduledeclaration ctermfg=red
